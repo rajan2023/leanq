@@ -1,0 +1,22 @@
+.moviebar {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  background-color: black;
+  font-size: 15px;
+  padding: 12px 12px;
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+}
+.flexwrap {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 6px;
+}
